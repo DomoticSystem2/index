@@ -1,0 +1,49 @@
+<html>
+
+
+
+
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Verkehr Communication</title>
+		<link rel="stylesheet" href="style.css" type="text/css" charset="utf-8" />
+	
+</head>
+
+
+<body oncontextmenu="return false" >
+
+  <div id="wrapper">
+    <div id="header">
+	<br>
+	<br>
+	<br>
+      <h1><img src="images/logo.jpg" alt="Img" height="40" width="120"></h1>
+	<div id="content">
+      <div class="left-col">
+        <div id="welcome">
+          <h2>Bienvenido</h2>
+          <p>Estimado Cliente, si la aplicacion WEB o la alarma presenta algun problema, favor comunicarlo al telefono 2222-2222 o al 2533-3333</p>
+          <p>Sea cuidadoso con su clave de ingreso al Sistema</p>
+          <p>Evite ingresar a la alarma Web en equipos desconocidos</p>
+          <p>Mas informormacion sobre nuestros productos en nuestro sitio WEB www.verkehrCommunication.co.cr</p>
+	
+        </div>
+      	<br>
+	<br>
+	<br>
+	<br>
+	
+	
+	<p><object data='http://elaine-pc:8000/Domotica%20Randall.html'WIDTH=700 HEIGHT=750 ></object>
+	
+    
+    <div class="clear" id="footc"> </div>
+    <div id="footer">
+      Todos los derechos reservados.
+    </div>
+  </div>                                      
+</body>                                       
+</html>  
